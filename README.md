@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey Iliev
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Asp .NET Core MVC, Web API
+- 🌱 I’m currently learning Asp .NET Core
 - 📫 How to reach me : iliev.andreyy@gmail.com
  - ![](https://komarev.com/ghpvc/?username=Gurio1)
 <!---
